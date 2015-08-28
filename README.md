@@ -22,6 +22,12 @@ View this jekyll theme in action [here](https://swcool.github.io/landing-page-th
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
+## Sections
+* О нас
+* Товары
+* Контакты
+* Доставка
+
 ===
 
 For more Jekyll details, read [documentation](http://jekyllrb.com/).

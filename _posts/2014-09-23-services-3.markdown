@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
+img: truba.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Профильная труба:<br>40х40х2
+price: 20 000
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  В строительной отрасли труба профильная квадратная и труба профильная прямоугольная активно используется на всех стадиях
+  строительства не зависимо от технологии производства.

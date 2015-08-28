@@ -1,10 +1,10 @@
 ---
 layout: default
-img: dog.png
+img: truba.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Профильная труба:<br>40х20х1.5
+price: 15 000
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  В строительной отрасли труба профильная квадратная и труба профильная прямоугольная активно используется на всех стадиях 
+  строительства не зависимо от технологии производства.

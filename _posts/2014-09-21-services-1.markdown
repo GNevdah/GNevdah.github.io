@@ -1,8 +1,10 @@
 ---
 layout: default
-img: ipad.png
+img: truba.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Профильная труба:<br>20х20х1.5
+price: 10 000
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  В строительной отрасли труба профильная квадратная и труба профильная прямоугольная активно используется на всех стадиях 
+  строительства не зависимо от технологии производства.
