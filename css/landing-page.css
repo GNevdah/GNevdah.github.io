@@ -221,9 +221,8 @@ p.copyright {
     color: #428BCA;
 }
 
-
 /* TODO: refactor it */
-#about, #contact {
+#about, #contact, #description {
   font-weight: normal;
   font-size: 1.3em;
 }
@@ -236,4 +235,8 @@ p.copyright {
 .separator {
   height: 1px;
   border-bottom: 1px solid #e7e7e7;
+}
+
+.text-left {
+  text-align: left;
 }
